@@ -2,7 +2,15 @@
 
 
 
+
+
+
+
                                            # Stock Broker Management System
+                                           
+                                           
+
+
 This is a Stock Broker Management System that allows customers to buy and sell shares through a stock broker.
 
 This system has two users, Broker and Customer. 
@@ -10,6 +18,8 @@ This system has two users, Broker and Customer.
 Broker can view and manage customers, stocks and transactions.
 
 Customer can buy and sell stocks, view stocks and transactions, and add or withdraw funds to and from their wallet.
+
+                                 
 
 # for user access
 
