@@ -110,6 +110,7 @@ bash
 Copy code
 
 Clone it.
+https://github.com/dpk915/showy-books-8072.git
 
 Open the project in your preferred Java IDE.
 
@@ -118,6 +119,7 @@ Open the project in your preferred Java IDE.
 Build and run the project in your IDE.
 
 •	You will be prompted to log in as either a customer or a broker.
+
 •	If you are logging in as a customer, you will be asked to sign up first. Enter your first name, last name, username, password, address, mobile number, and email.
 
 •	Once logged in, you will see the list of available stocks and can buy or sell stocks, view your transaction history, and add or withdraw funds to/from your wallet.
